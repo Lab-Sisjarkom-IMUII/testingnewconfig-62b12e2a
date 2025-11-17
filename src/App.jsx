@@ -7,7 +7,7 @@ function App() {
         <div className="app-content">
           {/* IM-UII Header */}
           <div className="app-header">
-            <h1 className="app-title">IM-UII Testing</h1>
+            <h1 className="app-title">IM-UII Testing New Config</h1>
             <p className="app-subtitle">Welcome to Your Project Daffa</p>
           </div>
 
