@@ -1,0 +1,11 @@
+{
+  "name": "testingnewconfig",
+  "framework": "react",
+  "language": "javascript",
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm start",
+  "domain": "testingnewconfig",
+  "email": "d.raihan2004@gmail.com",
+  "secretKey": "imuii_6e6acf1280e2bcffc3e1ff76673baa5d7750ddd4ba2cb9481cf48d1231af701f",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/testingnewconfig-62b12e2a.git"
+}
